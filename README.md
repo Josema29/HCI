@@ -1,8 +1,9 @@
 # HCI
 Team repository for Human Computer Interaction 
 
-<img href="https://youtu.be/P63qGocn2mU" src="chrome-capture.gif"/>
-
+<a href="https://youtu.be/P63qGocn2mU">
+  <img src="chrome-capture.gif"/>
+</a>
 
 
 [1]: https://youtu.be/P63qGocn2mU

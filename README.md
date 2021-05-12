@@ -1,4 +1,4 @@
 # HCI
 Team repository for Human Computer Interaction 
 
-![](chrome-capture.gif)
+![https://youtu.be/P63qGocn2mU](chrome-capture.gif)
